@@ -1,0 +1,12 @@
+<wicket:extend>
+	<form wicket:id="form" class="form-group">
+		<div class="row">
+			<div class="col-md-6 form-group">
+				<label wicket:for="filter"><wicket:label></wicket:label></label>
+				<input wicket:id="filter" class="form-control" type="text">
+			</div>
+		</div>
+		<button class="btn btn-primary btn-sm" type="submit" wicket:id="submit">Search</button>
+	</form>
+	<table class="table table-default table-striped table-bordered" wicket:id="table"></table>
+</wicket:extend>
