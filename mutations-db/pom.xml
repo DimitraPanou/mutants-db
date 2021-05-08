@@ -41,7 +41,7 @@
 		</license>
 	</licenses>
 	<properties>
-		<wicket.version>8.6.1</wicket.version>
+		<wicket.version>8.9.0</wicket.version>
 		<wicket.spring.version>8.6.1</wicket.spring.version>
 		<spring.version>5.2.2.RELEASE</spring.version>
 		<jetty9.version>9.4.18.v20190429</jetty9.version>
